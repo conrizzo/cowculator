@@ -1,5 +1,7 @@
 # conradswebsite
 
+This is an older iteration I built from scratch that is now integrated into my website.
+
 ## Project setup
 ```
 npm install
